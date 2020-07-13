@@ -80,7 +80,7 @@ public class CarEquipment : MonoBehaviour
                 cloneItems.Remove(item.itemType);
             }
 
-            cloneItems.Add(item.itemType, Instantiate(item.equpmentPrefab, itemTransform.position, Quaternion.identity, itemTransform));
+            cloneItems.Add(item.itemType, Instantiate(item.equpmentPrefab, itemTransform.position, itemTransform.rotation, itemTransform));
         }
         else
         {
