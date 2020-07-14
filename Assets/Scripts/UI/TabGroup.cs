@@ -1,10 +1,14 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class TabGroup : MonoBehaviour
 {
+    //Events
+    public static event Action<ItemType> OnTabChangeTrigger;
+
     [Header ("Tab")]
     [SerializeField] private List<TabButton> tabButtons;
     [SerializeField] private Sprite tabIdle;
@@ -52,6 +56,7 @@ public class TabGroup : MonoBehaviour
             if (i == index) objectsToSwap[i].SetActive(true);
             else objectsToSwap[i].SetActive(false);
         }
+        if (OnTabChangeTrigger != null) OnTabChangeTrigger(button.tabType);
     }
 
     private void ResetTabs()

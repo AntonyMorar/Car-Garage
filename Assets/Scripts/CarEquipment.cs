@@ -37,7 +37,6 @@ public class CarEquipment : MonoBehaviour
         foreach (SlotGroup slotGroup in slotGroups)
         {
             slotGroup.OnSlotSelectedTrigger -= EquipFeature;
-            Debug.Log("Se quito");
         }
     }
 

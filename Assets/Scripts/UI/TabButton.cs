@@ -9,6 +9,7 @@ public class TabButton : MonoBehaviour,IPointerClickHandler, IPointerEnterHandle
 {
     [SerializeField] private TabGroup tabGroup;
     [HideInInspector]public Image background;
+    public ItemType tabType;
 
     private void Start()
     {
