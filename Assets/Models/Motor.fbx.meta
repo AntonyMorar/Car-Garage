@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7cb6895029f98473d90221ce92e82f8f
+guid: 3be3f552f48d741aa859c00c6a3ba150
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: PoliceTop
-    second: {fileID: 2100000, guid: d68c40ee45d9340a1ad37fb4fcad86cd, type: 2}
+      name: Motor
+    second: {fileID: 2100000, guid: 56041a8fbda6a44ff86973355dfe9ba5, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

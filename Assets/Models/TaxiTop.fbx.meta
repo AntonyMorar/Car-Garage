@@ -3,7 +3,12 @@ guid: 35ed68a8a36cc4d5d9cb3b33a6a062b3
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TaxiTop
+    second: {fileID: 2100000, guid: 362386b74366f4866a5cae2ae541add2, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

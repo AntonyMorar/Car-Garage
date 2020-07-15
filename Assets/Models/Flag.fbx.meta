@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7cb6895029f98473d90221ce92e82f8f
+guid: 6167349e4c3a7456095f3afb5b9ebf26
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: PoliceTop
-    second: {fileID: 2100000, guid: d68c40ee45d9340a1ad37fb4fcad86cd, type: 2}
+      name: Flag
+    second: {fileID: 2100000, guid: 8f3f5f9a1753245bdb828719717cce5b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
