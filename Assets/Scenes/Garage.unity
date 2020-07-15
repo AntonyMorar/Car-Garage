@@ -590,7 +590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be1fd26e3b0e47bab9a5f0e0c958783, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slotGroup: {fileID: 1835438494}
+  slotGroup: {fileID: 1027549659}
   background: {fileID: 0}
   carEquipmentData:
     name: Motor
@@ -963,7 +963,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5d6694b4926e3484fb5edece9745d802, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3846d057f45734acdae2f353e4f843b5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1066,7 +1066,7 @@ GameObject:
   - component: {fileID: 614272117}
   - component: {fileID: 614272116}
   m_Layer: 5
-  m_Name: Taxi
+  m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1109,7 +1109,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b02e9c1bd33d64faa8f6a1d88bf3cc8d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8a5793d933ca64b7eb2513755be57ed0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1456,7 +1456,7 @@ GameObject:
   - component: {fileID: 722410906}
   - component: {fileID: 722410905}
   m_Layer: 5
-  m_Name: Police
+  m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1499,7 +1499,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5d6694b4926e3484fb5edece9745d802, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e87e4837351bd40f18646d2e41678df0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3456,7 +3456,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b02e9c1bd33d64faa8f6a1d88bf3cc8d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bbff1433b1039460e9b8fddbeb43bc6a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3486,7 +3486,7 @@ GameObject:
   - component: {fileID: 1590522124}
   - component: {fileID: 1590522123}
   m_Layer: 5
-  m_Name: Taxi
+  m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3529,7 +3529,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b02e9c1bd33d64faa8f6a1d88bf3cc8d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d234f819e5317489e94596b3b94102a7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
